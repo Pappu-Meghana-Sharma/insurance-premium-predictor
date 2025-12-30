@@ -126,7 +126,6 @@ Even though both were working fine when run directly using Streamlit and Uvicorn
 - How frontend–backend communication changes after deployment
 - Managing Python versions and dependencies during deployment is a must...
 
-
 ---
 
 Author: Meghana Sharma
