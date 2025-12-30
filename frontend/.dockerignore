@@ -1,0 +1,51 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Conda environments
+conda/
+.anaconda/
+miniconda/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
+
+# Logs
+*.log
+
+# Docker files you don’t need inside image
+Dockerfile
+docker-compose.yml
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Tests (optional)
+tests/
+
+# Data files (optional – keep model if needed)
+*.csv
+*.xlsx
+
+# Frontend specific
+.streamlit/
+
+# Misc
+node_modules/
