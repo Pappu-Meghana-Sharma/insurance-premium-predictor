@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-# API_URL = "http://backend:8000/predict" 
+# API_URL = "http://backend:8000/predict" this is for docker-compose service point
 API_URL ="https://insurance-premium-predictor-bbzf.onrender.com/predict"
 
 st.title("Insurance Premium Category Predictor")
